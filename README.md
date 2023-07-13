@@ -1,0 +1,1 @@
+This is a simple implementation of PettingZoo ParallelEnv, for the purpose of reproducing SuperSuit [Issue #222](https://github.com/Farama-Foundation/SuperSuit/issues/222).
